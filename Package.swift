@@ -6,6 +6,6 @@ let package = Package(
 		Target(name: "Redbird")
 	],
 	dependencies: [
-		.Package(url: "https://github.com/czechboy0/Socks.git", majorVersion: 0, minor: 12)
+		.Package(url: "https://github.com/vapor/Socks.git", majorVersion: 0, minor: 12)
 	]
 )
